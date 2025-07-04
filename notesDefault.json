@@ -1,0 +1,59 @@
+﻿{
+    "hashtable1":  {
+                       "Color":  "SkyBlue",
+                       "list2":  [
+                                     "Item 1",
+                                     "Item 2",
+                                     "Item 3",
+                                     "Item 4",
+                                     "Item 5",
+                                     "Item 6"
+                                 ],
+                       "list1":  [
+                                     "Item 1",
+                                     "Item 2",
+                                     "Item 3",
+                                     "Item 4",
+                                     "Item 5",
+                                     "Item 6"
+                                 ]
+                   },
+    "hashtable2":  {
+                       "Color":  "Gold",
+                       "list2":  [
+                                     "Item 1",
+                                     "Item 2",
+                                     "Item 3",
+                                     "Item 4",
+                                     "Item 5",
+                                     "Item 6"
+                                 ],
+                       "list1":  [
+                                     "Item 1",
+                                     "Item 2",
+                                     "Item 3",
+                                     "Item 4",
+                                     "Item 5",
+                                     "Item 6"
+                                 ]
+                   },
+    "hashtable3":  {
+                       "Color":  "Gold",
+                       "list2":  [
+                                     "Item 1",
+                                     "Item 2",
+                                     "Item 3",
+                                     "Item 4",
+                                     "Item 5",
+                                     "Item 6"
+                                 ],
+                       "list1":  [
+                                     "Item 1",
+                                     "Item 2",
+                                     "Item 3",
+                                     "Item 4",
+                                     "Item 5",
+                                     "Item 6"
+                                 ]
+                   }
+}
